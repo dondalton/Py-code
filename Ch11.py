@@ -1,4 +1,5 @@
 # -*- coding: cp1252 -*-
+# import regular expressions
 import re
 fhand = open('./infomatics/mbox-short.txt')
 for line in fhand:
